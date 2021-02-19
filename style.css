@@ -6,7 +6,7 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-image: url("../nbclb5.github.io/coffee.jpg");
+	background-image: src="/nbclb5.github.io/coffee.jpg";
 }
 #container{
  background: black;
